@@ -32,10 +32,10 @@ ros2_ws/
 │       │   └── bringup.launch.py
 │       ├── src/
 │       │   ├── mission_manager.py
-│       │   ├── detection_node.cpp/.py
-│       │   ├── navigation_node.cpp/.py
-│       │   ├── arm_node.cpp/.py
-│       │   └── visual_survoing.cpp/.py
+│       │   ├── detection_node.py
+│       │   ├── navigation_node.py
+│       │   ├── arm_node.py
+│       │   └── visual_survoing.py
 │       ├── CMakeLists.txt
 │       └── package.xml
 └── ...
