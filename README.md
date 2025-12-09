@@ -30,7 +30,7 @@ ros2_ws/
 │       │   └── navigation_params.yaml
 │       ├── launch/
 │       │   └── bringup.launch.py
-│       ├── src/
+│       ├── aerial_project/
 │       │   ├── mission_manager.py
 │       │   ├── detection_node.py
 │       │   ├── navigation_node.py
