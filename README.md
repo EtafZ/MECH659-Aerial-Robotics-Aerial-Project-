@@ -340,8 +340,3 @@ Contains mission-specific waypoints, speeds, frame IDs, and navigation behavior 
 - Check `/arm/status` for error messages
 - Test arm node independently before full mission
 
-
-
-## License
-
-[Add appropriate license information]
